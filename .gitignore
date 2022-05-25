@@ -1,0 +1,5 @@
+/.bsp/
+target/
+*.jar
+data/
+.fuse*
